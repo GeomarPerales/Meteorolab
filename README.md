@@ -1,6 +1,10 @@
 # Meteorolab
 
-scripts developed for the laboratory practices of meteorology and climatology of:
+## 1. Description
+
+scripts developed for the laboratory practices of meteorology and climatology
+
+## 2. University
 
 - Autonomous University of Baja California - UABC - México
 > Course: Meteorology and Climatology Laboratory
@@ -9,5 +13,6 @@ scripts developed for the laboratory practices of meteorology and climatology of
 > Course: Meteorology
 
 ## Data Sources
+
 
 
