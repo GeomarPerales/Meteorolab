@@ -4,11 +4,14 @@
 
 scripts developed for the laboratory practices of meteorology and climatology
 
+
 ## 2. Python query sources and Pandas
 
 1. Obtener y filtrar datos de un dataframe
 
 http://pyciencia.blogspot.com/2015/05/obtener-y-filtrar-datos-de-un-dataframe.html
+
+2. Análisis y visualización de datos con Pandas & MatPlotLib
 
 ## 3. Universities
 
