@@ -4,7 +4,7 @@
 
 scripts developed for the laboratory practices of meteorology and climatology
 
-## 2. University
+## 2. Universities
 
 - Autonomous University of Baja California - UABC - México
 > Course: Meteorology and Climatology Laboratory
@@ -12,7 +12,10 @@ scripts developed for the laboratory practices of meteorology and climatology
 - National University of San Marcos - UNMSM - Perú
 > Course: Meteorology
 
-## Data Sources
+## 3. Data Sources
+
+1. SENAMHI - Perú
+
 
 
 
