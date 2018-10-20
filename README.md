@@ -5,7 +5,7 @@
 scripts developed for the laboratory practices of meteorology and climatology
 
 
-## 2. Python query sources and Pandas
+## 2. Python and Pandas query source
 
 1. Obtener y filtrar datos de un dataframe
 
