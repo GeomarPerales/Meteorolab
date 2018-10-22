@@ -1,12 +1,12 @@
-# Meteorolab
+# METEOROLAB
 
-## 1. Description
+# 1. Description
 
 scripts developed for the laboratory practices of meteorology and climatology.
 
-# References
+# 2. References
 
-## 2. Python and Pandas query sources
+## 2.1. Python and Pandas query sources
 
 1. Obtener y filtrar datos de un dataframe
 
@@ -16,8 +16,11 @@ http://pyciencia.blogspot.com/2015/05/obtener-y-filtrar-datos-de-un-dataframe.ht
 
 https://code.likeagirl.io/an%C3%A1lisis-y-visualizaci%C3%B3n-de-datos-con-pandas-matplotlib-85ee4d7b4cad
 
+3. MetPy,  collection of tools in Python for reading, visualizing, and performing calculations with weather data.
 
-## 3. Universities
+https://unidata.github.io/MetPy/latest/index.html
+
+## 2.2. Universities
 
 - Autonomous University of Baja California - UABC - México
 > Course: Meteorology and Climatology Laboratory
@@ -25,6 +28,6 @@ https://code.likeagirl.io/an%C3%A1lisis-y-visualizaci%C3%B3n-de-datos-con-pandas
 - National University of San Marcos - UNMSM - Perú
 > Course: Meteorology
 
-## 4. Data Sources
+## 2.3. Data Sources
 
 1. SENAMHI - Perú
