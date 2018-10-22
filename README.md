@@ -2,7 +2,7 @@
 
 ## 1. Description
 
-scripts developed for the laboratory practices of meteorology and climatology
+scripts developed for the laboratory practices of meteorology and climatology.
 
 
 ## 2. Python and Pandas query sources
